@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ECSim.iml" filepath="$PROJECT_DIR$/.idea/ECSim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EdgeCloudSim/EdgeCloudSim.iml" filepath="$PROJECT_DIR$/EdgeCloudSim/EdgeCloudSim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EdgeCloudSim/scripts/scripts.iml" filepath="$PROJECT_DIR$/EdgeCloudSim/scripts/scripts.iml" />
+    </modules>
+  </component>
+</project>
